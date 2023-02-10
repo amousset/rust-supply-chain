@@ -1,0 +1,15 @@
+[book]
+authors = ["Alexis Mousset"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust Supply Chain Security Guide"
+description = "TODO"
+
+[rust]
+edition = "2021"
+
+[output.html]
+git-repository-url = "https://github.com/amousset/rust-supply-chain"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/amousset/rust-supply-chain/edit/main/{path}"
